@@ -1,0 +1,178 @@
+[
+  {
+    "name": "qq.com",
+    "recprotocol": "pop3",
+    "rechost": "pop.qq.com",
+    "recport": "995",
+    "recisssl": "true",
+    "sendprotocol": "smtp",
+    "sendhost": "smtp.qq.com",
+    "sendport": "465",
+    "sendisssl": "true"
+  },
+  {
+    "name": "foxmail.com",
+    "recprotocol": "pop3",
+    "rechost": "pop.qq.com",
+    "recport": "995",
+    "recisssl": "true",
+    "sendprotocol": "pop3",
+    "sendhost": "smtp.qq.com",
+    "sendport": "465",
+    "sendisssl": "true"
+  },
+  {
+    "name": "foxmail.com.cn",
+    "recprotocol": "pop3",
+    "rechost": "pop.qq.com",
+    "recport": "995",
+    "recisssl": "true",
+    "sendprotocol": "smtp",
+    "sendhost": "smtp.qq.com",
+    "sendport": "465",
+    "sendisssl": "true"
+  },
+  {
+    "name": "vip.qq.com",
+    "recprotocol": "pop3",
+    "rechost": "pop.qq.com",
+    "recport": "995",
+    "recisssl": "true",
+    "sendprotocol": "smtp",
+    "sendhost": "smtp.qq.com",
+    "sendport": "465",
+    "sendisssl": "true"
+  },
+  {
+    "name": "163.com",
+    "recprotocol": "imap",
+    "rechost": "imap.163.com",
+    "recport": "143",
+    "recisssl": "false",
+    "sendprotocol": "smtp",
+    "sendhost": "smtp.163.com",
+    "sendport": "25",
+    "sendisssl": "false"
+  },
+  {
+    "name": "126.com",
+    "recprotocol": "imap",
+    "rechost": "imap.126.com",
+    "recport": "143",
+    "recisssl": "false",
+    "sendprotocol": "smtp",
+    "sendhost": "smtp.126.com",
+    "sendport": "25",
+    "sendisssl": "false"
+  },
+  {
+    "name": "vip.163.com",
+    "recprotocol": "imap",
+    "rechost": "imap.vip.163.com",
+    "recport": "143",
+    "recisssl": "false",
+    "sendprotocol": "smtp",
+    "sendhost": "smtp.vip.163.com",
+    "sendport": "25",
+    "sendisssl": "false"
+  },
+  {
+    "name": "sina.com",
+    "recprotocol": "pop3",
+    "rechost": "pop.sina.com",
+    "recport": "110",
+    "recisssl": "false",
+    "sendprotocol": "smtp",
+    "sendhost": "smtp.sina.com",
+    "sendport": "25",
+    "sendisssl": "false"
+  },
+  {
+    "name": "vip.sina.com",
+    "recprotocol": "pop3",
+    "rechost": "pop.vip.sina.com",
+    "recport": "110",
+    "recisssl": "false",
+    "sendprotocol": "smtp",
+    "sendhost": "smtp.vip.sina.com",
+    "sendport": "25",
+    "sendisssl": "false"
+  },
+  {
+    "name": "sohu.com",
+    "recprotocol": "pop3",
+    "rechost": "pop.sohu.com",
+    "recport": "110",
+    "recisssl": "false",
+    "sendprotocol": "smtp",
+    "sendhost": "smtp.sohu.com",
+    "sendport": "25",
+    "sendisssl": "false"
+  },
+  {
+    "name": "yahoo.com.cn",
+    "recprotocol": "pop3",
+    "rechost": "pop.mail.yahoo.com.cn",
+    "recport": "110",
+    "recisssl": "false",
+    "sendprotocol": "smtp",
+    "sendhost": "smtp.mail.yahoo.com.cn",
+    "sendport": "25",
+    "sendisssl": "false"
+  },
+  {
+    "name": "outlook.com",
+    "recprotocol": "imap",
+    "rechost": "imap-mail.outlook.com",
+    "recport": "993",
+    "recisssl": "true",
+    "sendprotocol": "smtp",
+    "sendhost": "smtp-mail.outlook.com",
+    "sendport": "25",
+    "sendisssl": "false"
+  },
+  {
+    "name": "gmail.com",
+    "recprotocol": "pop3",
+    "rechost": "pop.gmail.com",
+    "recport": "995",
+    "recisssl": "true",
+    "sendprotocol": "smtp",
+    "sendhost": "smtp.gmail.com",
+    "sendport": "465",
+    "sendisssl": "true"
+  },
+  {
+    "name": "hotmail.com",
+    "recprotocol": "pop3",
+    "rechost": "pop3.live.com",
+    "recport": "995",
+    "recisssl": "true",
+    "sendprotocol": "smtp",
+    "sendhost": "smtp.live.com",
+    "sendport": "465",
+    "sendisssl": "true"
+  },
+  {
+    "name": "wo.cn",
+    "recprotocol": "imap",
+    "rechost": "imap.wo.cn",
+    "recport": "143",
+    "recisssl": "false",
+    "sendprotocol": "smtp",
+    "sendhost": "smtp.wo.cn",
+    "sendport": "25",
+    "sendisssl": "false"
+  },
+  {
+    "name": "189.cn",
+    "recprotocol": "imap",
+    "rechost": "imap.189.cn",
+    "recport": "143",
+    "recisssl": "false",
+    "sendprotocol": "smtp",
+    "sendhost": "smtp.189.cn",
+    "sendport": "25",
+    "sendisssl": "false"
+  }
+]
